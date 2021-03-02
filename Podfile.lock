@@ -1,0 +1,24 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.6)
+  - TextFieldEffects (1.6.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - TextFieldEffects
+  - Toast-Swift (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - TextFieldEffects
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 2e4acfeb941cae4decdf0f9f01c4efc308c7a0d5
+
+COCOAPODS: 1.8.4

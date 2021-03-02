@@ -1,0 +1,6 @@
+framework module Pods_201232_Textfeild_201232_TextfeildUITests {
+  umbrella header "Pods-201232_Textfeild-201232_TextfeildUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
